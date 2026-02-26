@@ -9,10 +9,15 @@
 	],
 	"license": "MIT",
 	"version": "1.0.0",
+	
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0",
+<<<<<<< HEAD
 		"@freecodecamp/example": "1.1.0"
+=======
+		"package-name": "version"
+>>>>>>> 2032415 (added dependency)
 	},
 	"main": "server.js",
 	"scripts": {
