@@ -1,8 +1,15 @@
 {
-	"author": "Mohammad Asad",
+	"author": "Asad",
+	"description": "A project that does something awesome",
+	"keywords": [
+		"awesome",
+		"npm",
+		"package",
+		"freecodecamp"
+	],
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
-		"express": "^4.22.1"
+		"express": "^4.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
